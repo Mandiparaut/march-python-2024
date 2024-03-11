@@ -1,0 +1,22 @@
+# Numbers are the immutable datatypes in python
+# They can be further classified as integer, float and complex
+
+# Integer
+# int() function is a built-in function to create an integer object
+# Integers are the number without decimal values
+
+a = int()
+b = 2
+c = -12
+
+
+# Float
+# float() function is a built-in function to create a float
+# Floats are the number with decimal values
+
+a = float()
+b = 2.0
+c = 3.1
+d = 2e3
+print(d)  # 2000.0
+e = -33.3
